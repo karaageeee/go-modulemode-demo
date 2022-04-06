@@ -3,7 +3,7 @@
 import (
 	"fmt"
 
-	"github.com/karaageeee/go-practice/logic"
+	"github.com/karaageeee/go-modulemode-demo/logic"
 )
 
 func main() {
