@@ -1,12 +1,9 @@
 ﻿package main
 
 import (
-	"fmt"
-
-	"github.com/karaageeee/go-modulemode-demo/logic"
+	hello "github.com/karaageeee/go-modulemode-demo/hello"
 )
 
 func main() {
-	fmt.Println("hello")
-	logic.PrintUUID()
+	hello.UUID()
 }
